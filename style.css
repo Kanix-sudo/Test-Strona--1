@@ -1,0 +1,54 @@
+#t1 {
+    background-color: gray;
+    margin: 5px;
+}
+
+#t12 {
+    background-color:red ;
+    margin: 20px;
+    height: 100px;
+    width: 780px;
+}
+
+#t13{
+    margin:20px;
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+
+#t14{
+    margin: 20px;
+    background-color: yellow;
+    height: 500px
+}
+
+#t131{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 25%;
+    background-color: green;
+    float: left;
+    height: 470px;
+}
+
+#t132{
+    width: 48.9%;
+    float: left ;
+    background-color: green;
+    height: 470px;
+}
+#t133{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 25%;
+    float: right;
+    background-color: green;
+    height: 470px;
+}
+
+#t15{
+    background-color: darkblue;
+    margin: 20px;
+    height: 50px;
+}
